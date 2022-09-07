@@ -1,34 +1,61 @@
 /* Hexadecimal */
 h1{
     color: #0000FF;
+    /* Bonus 1 */
+    background-color: #FF0000;
 }
 
 /* Hexadecimal Shorthand */
 h2{
     color: #0F0;
+    /* Bonus 1 */
+    background-color: #Fa0;
 }
 
 /* RGB */
 h3{
     color: rgb(255, 50, 50);
+    /* Bonus 1 */
+    background-color: rgb(247,228 ,24 );
 }
 
 /* RGBA */
 h4{
     color: rgba(255, 50, 0, 0.5);
+    /* Bonus 1 */
+    background-color: green;
 }
 
 /* Color Name */
 h5 {
     color: darkorchid;
+    /* Bonus 1 */
+    background-color: blue;
 }
 
 /* Hexadecimal with Transparency */
 h6{
     color: #0000FF77;
+    /* Bonus 1 */
+    background-color: indigo;
 }
 
 /* Hexadecimal Shorthand with Transparency */
 p{
     color: 0001;
+    /* Bonus 1 */
+    background-color: violet;
+}
+
+/* Bonus */
+#one{
+    color: hotpink;
+}
+
+#three{
+    background-color: peachpuff;
+}
+
+.green{
+    border: 5px solid green;
 }
